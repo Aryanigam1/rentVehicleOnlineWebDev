@@ -1,0 +1,15 @@
+.payment label {
+  font-weight: 600;
+  color: black;
+}
+.payment mt-3 d-flex align-items-center justify-content-between{
+  
+}
+.payment button {
+  padding: 8px 15px;
+  border-radius: 5px;
+  background: black;
+  color: #fff;
+  border: none;
+  outline: none;
+}
